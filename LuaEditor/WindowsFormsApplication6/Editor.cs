@@ -13,9 +13,9 @@ using System.Timers;
 
 namespace WindowsFormsApplication6
 {
-    public partial class Form1 : Form
+    public partial class Editor : Form
     {
-        public Form1()
+        public Editor()
         {
             InitializeComponent();
         }
@@ -120,7 +120,7 @@ namespace WindowsFormsApplication6
         private void objectToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Load File
-            string armorObjectLoad = ("D:\\armortemplate.lua");
+            string armorObjectLoad = ("resources\\templates\\armortemplate.lua");
             richTextBox1.LoadFile(armorObjectLoad, RichTextBoxStreamType.PlainText);
 
             // Object Folder String Search

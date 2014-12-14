@@ -1,0 +1,8 @@
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Editor.resources
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\LuaEditor.csproj.GenerateResource.Cache
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb

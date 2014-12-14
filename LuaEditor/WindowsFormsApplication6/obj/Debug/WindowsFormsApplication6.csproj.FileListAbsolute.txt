@@ -7,3 +7,12 @@ c:\users\phoenix\documents\visual studio 2012\Projects\PictureViewer\WindowsForm
 c:\users\phoenix\documents\visual studio 2012\Projects\PictureViewer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
 c:\users\phoenix\documents\visual studio 2012\Projects\PictureViewer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
 c:\users\phoenix\documents\visual studio 2012\Projects\PictureViewer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\PhoenixTool\LuaEditor\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
